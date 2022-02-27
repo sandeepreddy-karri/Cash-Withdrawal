@@ -1,0 +1,62 @@
+/* Write your CSS here */
+
+* {
+  color: #c7d2fe;
+}
+
+.mainbg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 40px;
+}
+
+.containerbg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #150b3e;
+  border-radius: 10px;
+  padding: 50px;
+  height: 70%;
+  width: 70%;
+}
+
+.name-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.name-logo {
+  height: 75px;
+  width: 75px;
+  background-color: #c7d2fe;
+  border-radius: 50%;
+  color: #7c3aed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.balancebg {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.unorderlist-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.color-change {
+  color: #585076;
+}

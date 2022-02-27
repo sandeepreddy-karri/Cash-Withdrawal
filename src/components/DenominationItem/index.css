@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.list-container {
+  list-style-type: none;
+}
+
+.button {
+  width: 250px;
+  height: 40px;
+  margin: 20px;
+  background-color: #585076;
+  color: #c7d2fe;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #c7d2fe;
+  border-radius: 6px;
+}
